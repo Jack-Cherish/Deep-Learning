@@ -19,3 +19,4 @@
 |   文章   |  个人网站  |    CSDN    |    知乎    |
 | :------  | :--------: | :--------: | :--------: |
 | Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化） | [个人网站](http://cuijiahua.com/blog/2018/01/dl_4.html "悬停显示") | no | no |
+| Tensorflow实战（二）：Discuz验证码识别 | [个人网站](http://cuijiahua.com/blog/2018/01/dl_5.html "悬停显示") | no | no |
