@@ -286,11 +286,11 @@ class Discuz():
 		# [?, 1024]
 		dense = tf.nn.relu(tf.add(tf.matmul(dense, w_d), b_d))
 		dense = tf.nn.dropout(dense, self.keep_prob)
-		# [1024, 37*4=148]
+		# [1024, 63*4=252]
 		w_out = tf.Variable(w_alpha*tf.random_normal([1024, self.max_captcha*self.char_set_len]))
  
 		b_out = tf.Variable(b_alpha*tf.random_normal([self.max_captcha*self.char_set_len]))
-		# [?, 148]
+		# [?, 252]
 		out = tf.add(tf.matmul(dense, w_out), b_out)
 		# out = tf.nn.softmax(out)
 		return out
