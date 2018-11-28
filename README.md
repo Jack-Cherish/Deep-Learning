@@ -2,7 +2,7 @@
 
 * 贵有恒，何必三更起五更睡；最无益，只怕一日暴十寒。<br>
 
-* [我的个人网站](http://cuijiahua.com/ "悬停显示")<br>
+* [我的个人网站](https://cuijiahua.com/ "悬停显示")<br>
 
 * [我的CSDN](http://blog.csdn.net/c406495762 "悬停显示")<br>
 
