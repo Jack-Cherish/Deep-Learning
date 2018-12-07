@@ -20,6 +20,7 @@
 | 深度学习实战教程(一) ：感知器 | [个人网站](https://cuijiahua.com/blog/2018/10/dl-7.html "悬停显示") | no | no |
 | 深度学习实战教程(二)：线性单元和梯度下降 | [个人网站](https://cuijiahua.com/blog/2018/11/dl-8.html "悬停显示") | no | no |
 | 深度学习实战教程(三)：神经网络和反向传播算法 | [个人网站](https://cuijiahua.com/blog/2018/11/dl-9.html "悬停显示") | no | no |
+| 深度学习实战教程(四)：卷积神经网络 | [个人网站](https://cuijiahua.com/blog/2018/12/dl-10.html "悬停显示") | no | no |
 
 ## Tensorflow实战
 
