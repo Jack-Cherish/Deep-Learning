@@ -22,6 +22,7 @@
 | 深度学习实战教程(三)：神经网络和反向传播算法 | [个人网站](https://cuijiahua.com/blog/2018/11/dl-9.html "深度学习实战教程(三)") | no | no |
 | 深度学习实战教程(四)：卷积神经网络 | [个人网站](https://cuijiahua.com/blog/2018/12/dl-10.html "深度学习实战教程(四)") | no | no |
 | 深度学习实战教程(五)：循环神经网络 | [个人网站](https://cuijiahua.com/blog/2018/12/dl-11.html "深度学习实战教程(五)") | no | no |
+| 深度学习实战教程(六)：长短时记忆网络(LSTM) | [个人网站](https://cuijiahua.com/blog/2019/01/dl-12.html "深度学习实战教程(六) | no | no |
 
 ## Tensorflow实战
 
