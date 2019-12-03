@@ -33,3 +33,7 @@
 | :------  | :--------: | :--------: | :--------: |
 | Tensorflow实战（一）：打响深度学习的第一枪 – 手写数字识别（Tensorboard可视化） | [个人网站](http://cuijiahua.com/blog/2018/01/dl_4.html "手写数字识别") | no | no |
 | Tensorflow实战（二）：Discuz验证码识别 | [个人网站](http://cuijiahua.com/blog/2018/01/dl_5.html "Discuz验证码识别") | no | no |
+
+## Pytorch实战
+|   文章   |  个人网站  |    CSDN    |    知乎    |
+| Pytorch深度学习实战教程（一）：语义分割基础与环境搭建 | [个人网站](https://cuijiahua.com/blog/2019/11/dl-14.html "Pytorch深度学习实战教程（一）：语义分割基础与环境搭建") | no | no |
