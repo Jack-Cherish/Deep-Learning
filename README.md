@@ -38,3 +38,4 @@
 |   文章   |  个人网站  |    CSDN    |    知乎    |
 | :------  | :--------: | :--------: | :--------: |
 | Pytorch深度学习实战教程（一）：语义分割基础与环境搭建 | [个人网站](https://cuijiahua.com/blog/2019/11/dl-14.html "Pytorch深度学习实战教程（一）：语义分割基础与环境搭建") | no | no |
+| Pytorch深度学习实战教程（二）：UNet网络结构与代码编写 | [个人网站](https://cuijiahua.com/blog/2019/12/dl-15.html "Pytorch深度学习实战教程（二）：UNet网络结构与代码编写") | no | no |
