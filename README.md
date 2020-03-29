@@ -39,3 +39,4 @@
 | :------  | :--------: | :--------: | :--------: |
 | Pytorch深度学习实战教程（一）：语义分割基础与环境搭建 | [个人网站](https://cuijiahua.com/blog/2019/11/dl-14.html "Pytorch深度学习实战教程（一）：语义分割基础与环境搭建") | no | no |
 | Pytorch深度学习实战教程（二）：UNet语义分割网络 | [个人网站](https://cuijiahua.com/blog/2019/12/dl-15.html "Pytorch深度学习实战教程（二）：UNet语义分割网络") | no | no |
+| Pytorch深度学习实战教程（二）：UNet语义分割网络 | [个人网站](https://cuijiahua.com/blog/2020/03/dl-16.html "Pytorch深度学习实战教程（三）：UNet模型训练") | no | no |
