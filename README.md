@@ -37,8 +37,8 @@
 | Tensorflow实战（二）：Discuz验证码识别 | [个人网站](http://cuijiahua.com/blog/2018/01/dl_5.html "Discuz验证码识别") | no | no |
 
 ## Pytorch实战
-|   文章   |  个人网站  |    CSDN    |    知乎    |
-| :------  | :--------: | :--------: | :--------: |
-| Pytorch深度学习实战教程（一）：语义分割基础与环境搭建 | [个人网站](https://cuijiahua.com/blog/2019/11/dl-14.html "Pytorch深度学习实战教程（一）：语义分割基础与环境搭建") | no | no |
-| Pytorch深度学习实战教程（二）：UNet语义分割网络 | [个人网站](https://cuijiahua.com/blog/2019/12/dl-15.html "Pytorch深度学习实战教程（二）：UNet语义分割网络") | no | no |
-| Pytorch深度学习实战教程（三）：UNet模型训练 | [个人网站](https://cuijiahua.com/blog/2020/03/dl-16.html "Pytorch深度学习实战教程（三）：UNet模型训练") | no | no |
+|   文章   |  公众号  |
+| :------  | :--------: |
+| Pytorch深度学习实战教程（一）：语义分割基础与环境搭建 | [公众号](https://mp.weixin.qq.com/s/KI-9z7FBjfoWfZK3PEPXJA "Pytorch深度学习实战教程（一）：语义分割基础与环境搭建") |
+| Pytorch深度学习实战教程（二）：UNet语义分割网络 | [公众号](https://mp.weixin.qq.com/s/6tZVUbyEjLVewM8vGK9Zhw "Pytorch深度学习实战教程（二）：UNet语义分割网络") |
+| Pytorch深度学习实战教程（三）：UNet模型训练 | [公众号](https://mp.weixin.qq.com/s/7FY77k3xtK-UyfoXpFXgBQ "Pytorch深度学习实战教程（三）：UNet模型训练") |
