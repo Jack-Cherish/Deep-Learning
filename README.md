@@ -2,11 +2,11 @@
 
 * 贵有恒，何必三更起五更睡；最无益，只怕一日曝十日寒。<br>
 
-* [我的个人网站](https://cuijiahua.com/ "个人网站")<br>
+* [个人网站](https://cuijiahua.com/ "个人网站")<br>
 
-* [我的CSDN](http://blog.csdn.net/c406495762 "CSDN")<br>
+* [CSDN](http://blog.csdn.net/c406495762 "CSDN")<br>
 
-* [我的知乎](https://www.zhihu.com/people/Jack--Cui/activities "知乎")<br>
+* [知乎](https://www.zhihu.com/people/Jack--Cui/activities "知乎")<br>
 
 * 学习交流群：关注公众号，回复交流群，拉你进群！<br>
 
