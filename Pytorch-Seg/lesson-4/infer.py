@@ -27,6 +27,7 @@ if __name__ == "__main__":
     fc_inputs = model.fc.in_features
     model.fc = nn.Linear(fc_inputs, 214)
     model = model.cuda()
+    # 加载训练好的模型
     checkpoint = torch.load('model_best_checkpoint_resnet50.pth.tar')
     model.load_state_dict(checkpoint['state_dict'])
     model.eval()
