@@ -20,6 +20,7 @@
 | Pytorch深度学习实战教程（三）：UNet模型训练 | [公众号](https://mp.weixin.qq.com/s/7FY77k3xtK-UyfoXpFXgBQ "Pytorch深度学习实战教程（三）：UNet模型训练") | [Code](https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-2 "Pytorch深度学习实战教程（三）：UNet模型训练") |
 | Pytorch深度学习实战教程（四）：必知必会的炼丹法宝 | [公众号](https://mp.weixin.qq.com/s/RhvCeesbzAQmK0yv8D6LjQ "Pytorch深度学习实战教程（四）：必知必会的炼丹法宝") | [Code](https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-3 "Pytorch深度学习实战教程（四）：必知必会的炼丹法宝") |
 | Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗 | [公众号](https://mp.weixin.qq.com/s/Yt2M-cjLdRgOowNNm2Ll8Q "Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗") | [Code](https://github.com/Jack-Cherish/Deep-Learning/tree/master/Pytorch-Seg/lesson-4 "Pytorch深度学习实战教程（五）：今天，你垃圾分类了吗") |
+| Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码 | [公众号](https://mp.weixin.qq.com/s/za4DsGMcLZYCbTir9QFPKQ "Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码") | [Code](https://github.com/Jack-Cherish/Deep-Learning/blob/master/face/video_mosaic.py "Pytorch 深度学习实战教程（六）：仝卓自爆，快本打码") |
 更新ing...
 
 ## 深度学习实战教程
